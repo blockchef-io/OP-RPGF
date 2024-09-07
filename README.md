@@ -1,8 +1,9 @@
 # Blockchef | Blockchain From Farm to Fork
-![Blockchef | Header](./Assets/Header.png)
 
 ## Revolutionizing the Food Supply Chain with BlockChef: Integrating Blockchain, DeFi, and Real-World Assets
 In the ever-evolving landscape of blockchain technology, decentralized applications (DApps) have been a driving force in transforming industries. Among these, the food supply chain stands out as an area ripe for innovation. Imagine a world where the journey of your food from farm to table (we mostly call it farm-to-fork) is not only transparent but also secure, efficient, and rewarding. Enter BlockChef, a groundbreaking DApp that leverages the power of blockchain, decentralized finance (DeFi), and real-world assets (RWA) to revolutionize the food supply chain.
+
+![Blockchef | RPGF](./Assets/RPGF-5.png)
 
 ## The Need for Transparency and Security in the Food Supply Chain
 The modern food supply chain is a complex web of interactions involving farmers, processors, distributors, retailers, and consumers. This complexity often leads to inefficiencies, fraud, and a lack of transparency. Traditional supply chains are vulnerable to numerous issues, such as counterfeit products, where unscrupulous entities introduce fake or substandard items into the supply chain. This undermines consumer trust and compromises safety.
@@ -20,6 +21,7 @@ BlockChef addresses these challenges by utilizing blockchain technology to creat
 * Smart Contracts: Automated smart contracts streamline transactions and enforce agreements without the need for intermediaries. This reduces costs and speeds up processes.
 * Traceability: Consumers can scan a QR code on their food products to view the entire journey of the item, including its origin, processing steps, and transportation details. This builds trust and ensures food safety.
 
+![Blockchef | Header](./Assets/Header.png)
 
 ## Integrating DeFi Components for Added Benefits
 BlockChef goes beyond mere transparency and security by integrating DeFi elements, adding an attractive layer of financial incentives for all participants in the supply chain.
