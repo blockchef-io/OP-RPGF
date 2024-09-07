@@ -1,4 +1,4 @@
-# Blockchef | Blockchain From Farm to Fork
+# Blockchef | Blockchain; From Farm to Fork
 
 ## Revolutionizing the Food Supply Chain with BlockChef: Integrating Blockchain, DeFi, and Real-World Assets
 In the ever-evolving landscape of blockchain technology, decentralized applications (DApps) have been a driving force in transforming industries. Among these, the food supply chain stands out as an area ripe for innovation. Imagine a world where the journey of your food from farm to table (we mostly call it farm-to-fork) is not only transparent but also secure, efficient, and rewarding. Enter BlockChef, a groundbreaking DApp that leverages the power of blockchain, decentralized finance (DeFi), and real-world assets (RWA) to revolutionize the food supply chain.
